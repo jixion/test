@@ -5,4 +5,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="SinglyLinkedList\" />
+    <None Remove="DoublyLinkedLIst\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SinglyLinkedList\" />
+    <Folder Include="DoublyLinkedLIst\" />
+  </ItemGroup>
 </Project>
