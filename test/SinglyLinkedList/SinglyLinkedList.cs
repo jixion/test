@@ -103,7 +103,7 @@ namespace test
         }
 
 
-        // boken
+        // b0rkd
         internal SinglyNode GetNextToLastNode(SinglyLinkedList singlyList)
         {
             SinglyNode temp = singlyList.head;
